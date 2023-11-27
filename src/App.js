@@ -25,7 +25,7 @@ const App = () => {
             <NavLink className="nav2" to="/About">About</NavLink>
           </li>
           <li className='li1'>
-            <NavLink className="nav2" to="/contact">Contact</NavLink>
+            <NavLink className="nav2" to="/Contact">Contact</NavLink>
           </li>
           <li className='li11'>
             <NavLink className='nav111' to="/Login">Login<CgProfile/></NavLink>
