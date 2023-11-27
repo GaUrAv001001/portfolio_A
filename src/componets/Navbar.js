@@ -99,8 +99,7 @@ const Navbar = () => {
 
           </h1>
           <div className="c3">
-            I am learning <span className="sp2">Data Science</span> and I want
-            to become a <span className="sp2">Data Scientist</span>
+            I am Full-Stack <span className="sp2"> Python </span> Developer <span className="sp2">Data Scientist</span>
           </div>
         </div>
         <div className="txt">
